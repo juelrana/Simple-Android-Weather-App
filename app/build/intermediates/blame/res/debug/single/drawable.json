@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather45.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather45.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_arrow_icon.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\down_arrow_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather29.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather29.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather37.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather37.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather8.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather8.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather14.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather14.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather46.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather46.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thunderstrom2.jpg",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\thunderstrom2.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_icon.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather2.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather2.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_arrow_icon.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\up_arrow_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather23.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather23.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather15.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather15.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather31.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather31.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather16.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather16.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather13.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather13.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather6.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather6.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather0.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather0.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather9.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather24.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather24.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather38.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather38.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather27.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather27.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather3.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather3.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather19.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather19.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather35.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather35.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\na.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\na.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather40.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather40.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather32.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather32.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather21.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather21.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thunderstrom.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\thunderstrom.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather10.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather10.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather34.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather34.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_background.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\activity_background.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather20.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather20.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather11.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather11.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather43.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather43.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather5.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather5.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather12.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather12.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather26.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather26.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather42.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather42.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather18.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather18.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather41.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather41.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_pin_icon.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\location_pin_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather30.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather30.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather25.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather25.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather1.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather1.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather22.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather22.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather4.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather4.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather28.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather28.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather17.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather17.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather33.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather33.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather36.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather36.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather44.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather44.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather39.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather39.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather7.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather7.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\SimpleWeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather47.png",
+        "source": "D:\\AndroidProject\\SimpleWeatherApp\\app\\src\\main\\res\\drawable\\weather47.png"
+    }
+]
